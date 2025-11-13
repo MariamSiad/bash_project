@@ -36,7 +36,7 @@ useradd, usermod, passwd, groupadd, etc.
 
 📂 Project Files
 
-menu.sh → Main Bash script
+bash.sh → Main Bash script
 
 project-documentation.pdf → Contains explanation, screenshots, and workflow details
 
@@ -47,10 +47,10 @@ Also, huge appreciation to ITI (Information Technology Institute) for providing 
 
 🚀 How to Run
 # Give execution permission
-chmod +x menu.sh
+chmod +x bash.sh
 
 # Run the script
-./menu.sh
+./bash.sh
 
 🌐 Author
 
