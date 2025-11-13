@@ -55,7 +55,7 @@ chmod +x menu.sh
 🌐 Author
 
 👩‍💻 Mariem Said
-📫 Connect with me on LinkedIn
+📫 Connect with me on [LinkedIn](www.linkedin.com/in/eng-mariam-alshikh)
 
 ⭐ Contributions & Feedback
 
