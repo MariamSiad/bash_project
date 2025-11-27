@@ -14,6 +14,7 @@ It allows system administrators and Linux learners to manage users and groups ea
 ✅ Change user passwords
 ✅ Simple and interactive UI using whiptail
 
+
 🧠 Purpose
 
 The goal of this mini project is to:
