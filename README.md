@@ -1,6 +1,5 @@
 🧑‍💻 Linux User Management Tool – Bash Scripting Project
 📖 Overview
-
 This project is a menu-driven Linux user and group management tool developed using Bash scripting and the Whiptail utility for a simple, interactive terminal interface.
 
 It allows system administrators and Linux learners to manage users and groups easily — all from a friendly TUI (Text User Interface) without manually typing complex commands.
